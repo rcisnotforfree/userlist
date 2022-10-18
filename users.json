@@ -226,6 +226,30 @@
         "vipMonth": "Oct",
          "note" : "Oak Gyi from telegram with kpay 2000",
          "date" : "17.10.2022"
+      },
+{
+        "deviceId": "ae025343d3c896ed",
+        "vipMonth": "Oct",
+         "note" : "Ko Sai from telegram with kpay 2000",
+         "date" : "18.10.2022"
+      },
+{
+        "deviceId": "2a08799160b9fcd6",
+        "vipMonth": "Oct",
+         "note" : "Latta Law from telegram with kpay 2000",
+         "date" : "18.10.2022"
+      },
+{
+        "deviceId": "e56c910d46869fe9",
+        "vipMonth": "Oct",
+         "note" : "Phoe La Min from facebook with wave 2000",
+         "date" : "18.10.2022"
+      },
+{
+        "deviceId": "2634af91eb16163e",
+        "vipMonth": "Oct",
+         "note" : "Kyaw Ye Linn from facebook with wave 2000",
+         "date" : "18.10.2022"
       }
       ]
 }
