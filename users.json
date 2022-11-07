@@ -24,14 +24,14 @@
          "date" : "30.10.2022"
       },
       {
-        "deviceId": "9d69a60200616f61",
-        "vipMonth": "Nov",
+        "deviceId": "##9d69a60200616f61",
+        "vipMonth": "#Nov",
          "note" : "Thet Hmoopyae Sone from facebook with telenor 2000",
          "date" : "6.10.2022"
       },
       {
-        "deviceId": "5386fe69bd924fe9",
-        "vipMonth": "Nov",
+        "deviceId": "##5386fe69bd924fe9",
+        "vipMonth": "#Nov",
          "note" : "ye linn from telegram with kpay 4000 for 2 month",
          "date" : "7.10.2022"
       },
@@ -605,6 +605,18 @@
         "vipMonth": "Nov",
         "note" : "RaMaTo(SAN) From telegram with wave 2000",
         "date" : "6.11.2022"
+      },
+{
+        "deviceId": "ea8d7d32ce18dc75",
+        "vipMonth": "Nov",
+        "note" : "Charlie Queen From facebook with wave 2000",
+        "date" : "7.11.2022"
+      },
+{
+        "deviceId": "c9774d988476cc68",
+        "vipMonth": "Nov",
+        "note" : "AK AK From facebook with wave 2000",
+        "date" : "7.11.2022"
       }
       ]
 }
