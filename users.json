@@ -13,13 +13,13 @@
          "date" : "6.10.2022"
       },
       {
-        "deviceId": "7152f8fa0f93e618-1",
+        "deviceId": "7152f8fa0f93e618",
         "vipMonth": "Nov",
           "note" : "Its Me"
       },
 {
-        "deviceId": "836045ab1b53ab2f",
-        "vipMonth": "Nov",
+        "deviceId": "##836045ab1b53ab2f",
+        "vipMonth": "#Nov",
          "note" : "Royal Lily from facebook lifetime free",
          "date" : "30.10.2022"
       },
@@ -138,26 +138,26 @@
          "date" : "12.10.2022"
       },
 {
-        "deviceId": "f966013a3a94cafe",
-        "vipMonth": "Nov",
+        "deviceId": "##f966013a3a94cafe",
+        "vipMonth": "#Nov",
          "note" : "Jennifer from telegram with kpay 2000",
          "date" : "13.10.2022"
       },
 {
-        "deviceId": "445b3be92a8fdff7",
-        "vipMonth": "Nov",
+        "deviceId": "##445b3be92a8fdff7",
+        "vipMonth": "#Nov",
          "note" : "mc Myo aung from telegram with bill 3000",
          "date" : "13.10.2022"
       },
 {
-        "deviceId": "e2335ff131583cd9",
-        "vipMonth": "Nov",
+        "deviceId": "##e2335ff131583cd9",
+        "vipMonth": "#Nov",
          "note" : "yezarni maung from telegram with kpay 2000",
          "date" : "14.10.2022"
       },
 {
-        "deviceId": "498257dda39b2868",
-        "vipMonth": "Nov",
+        "deviceId": "##498257dda39b2868",
+        "vipMonth": "#Nov",
          "note" : "Paing Paing from telegram with bill 3000",
          "date" : "14.10.2022"
       },
@@ -168,8 +168,8 @@
          "date" : "14.10.2022"
       },
 {
-        "deviceId": "2bfdb4694bd8a7ae",
-        "vipMonth": "Nov",
+        "deviceId": "##2bfdb4694bd8a7ae",
+        "vipMonth": "#Nov",
          "note" : "Kyaw zin Kyaw zin from telegram with wave 2000",
          "date" : "14.10.2022"
       },
@@ -697,10 +697,40 @@
         "date" : "11.11.2022"
       },
 {
-        "deviceId": "#cc9d90681b6180ef",
+        "deviceId": "2fb96936bb42413a",
         "vipMonth": "Nov",
-        "note" : " From facebook with kpay 2000",
-        "date" : "8.11.2022"
+        "note" : "0019169080102 From telegram with wave 2000",
+        "date" : "13.11.2022"
+      },
+{
+        "deviceId": "a8e3f6b59595ac3c",
+        "vipMonth": "Nov",
+        "note" : "min Hein From telegram with wave 2000",
+        "date" : "13.11.2022"
+      },
+{
+        "deviceId": "7a778024e3c76d21",
+        "vipMonth": "Nov",
+        "note" : "Arkar Min From telegram with wave 2000",
+        "date" : "13.11.2022"
+      },
+{
+        "deviceId": "7dc4ab047304a1e6",
+        "vipMonth": "Nov",
+        "note" : "K Gyi From telegram with wave 2000",
+        "date" : "13.11.2022"
+      },
+{
+        "deviceId": "cbd69dd03836390c",
+        "vipMonth": "Nov",
+        "note" : "Crystal Starwolf From telegram with kpay 2000",
+        "date" : "13.11.2022"
+      },
+{
+        "deviceId": "f57ba0c07b371e11",
+        "vipMonth": "Nov",
+        "note" : "Ko Thet From telegram with kpay 4000 for 2 month",
+        "date" : "13.11.2022"
       },
 {
         "deviceId": "#cc9d90681b6180ef",
