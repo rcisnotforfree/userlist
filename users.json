@@ -144,10 +144,10 @@
          "date" : "13.10.2022"
       },
 {
-        "deviceId": "##445b3be92a8fdff7",
-        "vipMonth": "#Nov",
-         "note" : "mc Myo aung from telegram with bill 3000",
-         "date" : "13.10.2022"
+        "deviceId": "445b3be92a8fdff7",
+        "vipMonth": "Nov",
+         "note" : "mc Myo aung from telegram with kpay 5000 for 3 month",
+         "date" : "21.11.2022"
       },
 {
         "deviceId": "##e2335ff131583cd9",
@@ -889,6 +889,96 @@
         "deviceId": "d4f1a32fafaddc8b",
         "vipMonth": "Nov",
         "note" : "shin lay from telegram with wave 2000",
+        "date" : "20.11.2022"
+      },
+ {
+        "deviceId": "947cd8fbed1b9331",
+        "vipMonth": "Nov",
+        "note" : "BG 10 from telegram with kpay 2000",
+        "date" : "21.11.2022"
+      },
+ {
+        "deviceId": "e57a174a41c80f5f",
+        "vipMonth": "Nov",
+        "note" : "Thuta Zaw from telegram with kpay 5000 for 3 month",
+        "date" : "21.11.2022"
+      },
+ {
+        "deviceId": "f471fa4db22600a2",
+        "vipMonth": "Nov",
+        "note" : "John Phyo from telegram with kpay 2000",
+        "date" : "21.11.2022"
+      },
+ {
+        "deviceId": "01db8cdb2c958eb1",
+        "vipMonth": "Nov",
+        "note" : "Wai Yan from telegram with kpay 2000",
+        "date" : "21.11.2022"
+      },
+ {
+        "deviceId": "efbb1a3bc5c82080",
+        "vipMonth": "Nov",
+        "note" : "Phay Aunt Tun from telegram with kpay 2000",
+        "date" : "21.11.2022"
+      },
+ {
+        "deviceId": "2b82041e48a2c60c",
+        "vipMonth": "Nov",
+        "note" : "jok er from telegram with wave 2000",
+        "date" : "21.11.2022"
+      },
+ {
+        "deviceId": "035c7611c77848e7",
+        "vipMonth": "Nov",
+        "note" : "Lin Lin Lin Lin from telegram with wave 2000",
+        "date" : "21.11.2022"
+      },
+ {
+        "deviceId": "d4f1a3xd2fafaddc8b",
+        "vipMonth": "Nov",
+        "note" : " from telegram with wave 2000",
+        "date" : "20.11.2022"
+      },
+ {
+        "deviceId": "d4f1a32fafadeedc8b",
+        "vipMonth": "Nov",
+        "note" : " from telegram with wave 2000",
+        "date" : "20.11.2022"
+      },
+ {
+        "deviceId": "d4f1a32fafeeaddc8b",
+        "vipMonth": "Nov",
+        "note" : " from telegram with wave 2000",
+        "date" : "20.11.2022"
+      },
+ {
+        "deviceId": "d4f1a32fafadddec8b",
+        "vipMonth": "Nov",
+        "note" : " from telegram with wave 2000",
+        "date" : "20.11.2022"
+      },
+ {
+        "deviceId": "d4f1a32fafaddddc8b",
+        "vipMonth": "Nov",
+        "note" : " from telegram with wave 2000",
+        "date" : "20.11.2022"
+      },
+ {
+        "deviceId": "d4f1a32fafaddedc8b",
+        "vipMonth": "Nov",
+        "note" : " from telegram with wave 2000",
+        "date" : "20.11.2022"
+      },
+ {
+        "deviceId": "d4f1a32fafaddedc8b",
+        "vipMonth": "Nov",
+        "note" : " from telegram with wave 2000",
+        "date" : "20.11.2022"
+      },
+ {
+        "deviceId": "d4f1a32fafadeedc8b",
+        "vipMonth": "Nov",
+        "note" : " from telegram with wave 2000",
         "date" : "20.11.2022"
       }
 
