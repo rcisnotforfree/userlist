@@ -372,8 +372,8 @@
          "date" : "23.10.2022"
       },
 {
-        "deviceId": "a0e67b8905f25f3a",
-        "vipMonth": "Nov",
+        "deviceId": "##a0e67b8905f25f3a",
+        "vipMonth": "#Nov",
          "note" : "Kaung Sitt Thant from telegram with kpay 2000",
          "date" : "28.10.2022"
       }
@@ -386,8 +386,8 @@
       }
 ,
 {
-        "deviceId": "3c988a25b26e16cd",
-        "vipMonth": "Nov",
+        "deviceId": "##3c988a25b26e16cd",
+        "vipMonth": "#Nov",
          "note" : "Mg Kaung from telegram with wave 2000",
          "date" : "28.10.2022"
       }
