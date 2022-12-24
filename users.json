@@ -697,10 +697,10 @@
         "date" : "11.11.2022"
       },
 {
-        "deviceId": "xx2fb96936bb42413a",
+        "deviceId": "2fb96936bb42413a",
         "vipMonth": "Dec",
-        "note" : "0019169080102 From telegram with wave 2000",
-        "date" : "13.11.2022"
+        "note" : "0019169080102 From telegram with wave 2000(+3000)",
+        "date" : "24.12.2022"
       },
 {
         "deviceId": "xxa8e3f6b59595ac3c",
@@ -1569,6 +1569,24 @@
         "vipMonth": "Dec",
         "note" : "Gu Gu from telegram with kpay 5000 for 3 month",
         "date" : "23.12.2022"
+      },
+ {
+        "deviceId": "31f5a19db983c9ed",
+        "vipMonth": "Dec",
+        "note" : "Chan myae htet from viber with wave 3000",
+        "date" : "24.12.2022"
+      },
+ {
+        "deviceId": "8e55070636dcdae6",
+        "vipMonth": "Dec",
+        "note" : "Aung Min Khant from telegram with wave 3000",
+        "date" : "24.12.2022"
+      },
+ {
+        "deviceId": "91b80f0b478337c9",
+        "vipMonth": "Dec",
+        "note" : "Zaw Min Htike from telegram with kpay 2000",
+        "date" : "24.12.2022"
       },
  {
         "deviceId": "xxxx",
