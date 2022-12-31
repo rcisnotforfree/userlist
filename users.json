@@ -1067,12 +1067,6 @@
         "date" : "27.11.2022"
       },
  {
-        "deviceId": "##7a49c723811183dd",
-        "vipMonth": "#Jan",
-        "note" : "ÂØË from telegram with wave 2000",
-        "date" : "27.11.2022"
-      },
- {
         "deviceId": "39c01af84acdf29f",
         "vipMonth": "Jan",
         "note" : "Nandi Hlaing from telegram with wave 4000 for 2 month",
@@ -1814,6 +1808,12 @@
         "deviceId": "5d2ea4a57b3c9644",
         "vipMonth": "Jan",
         "note" : "Who am i from telegram with kpay 5000 for 2 month",
+        "date" : "1.1.2023"
+      },
+ {
+        "deviceId": "7a49c723811183dd",
+        "vipMonth": "Jan",
+        "note" : "ÂØË from telegram with wave 2000 (renew member)",
         "date" : "1.1.2023"
       },
  {
