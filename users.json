@@ -7,8 +7,8 @@
         "date" : "6.10.2022"
       },
       {
-        "deviceId": "9af42a5259a6b4df",
-        "vipMonth": "Jan",
+        "deviceId": "##9af42a5259a6b4df",
+        "vipMonth": "#Jan",
          "note" : "Ko Thet From telegram with wave 2000(+wave 2000)",
          "date" : "6.10.2022"
       },
@@ -24,8 +24,8 @@
          "date" : "30.10.2022"
       },
       {
-        "deviceId": "9d69a60200616f61",
-        "vipMonth": "Jan",
+        "deviceId": "##9d69a60200616f61",
+        "vipMonth": "#Jan",
          "note" : "Thet Hmoopyae Sone from facebook with telenor 2000",
          "date" : "11.10.2022"
       },
@@ -336,14 +336,14 @@
          "date" : "22.10.2022"
       },
 {
-        "deviceId": "##5e7302378c9c6724",
-        "vipMonth": "#Jan",
-         "note" : "Aung Nay Lin from facebook with wave 3000",
-         "date" : "22.10.2022"
+        "deviceId": "5e7302378c9c6724",
+        "vipMonth": "Jan",
+         "note" : "Aung Nay Lin from facebook with wave 3000(+wave 2000)",
+         "date" : "3.1.2023"
       },
 {
-        "deviceId": "efbd4d07084a0982",
-        "vipMonth": "Jan",
+        "deviceId": "##efbd4d07084a0982",
+        "vipMonth": "#Jan",
          "note" : "Bxoxn Myint from facebook with wave 4000 for 2 month",
          "date" : "23.10.2022"
       },
@@ -414,8 +414,8 @@
       }
 ,
 {
-        "deviceId": "d6404fbe77898a64",
-        "vipMonth": "Jan",
+        "deviceId": "##d6404fbe77898a64",
+        "vipMonth": "#Jan",
          "note" : "Sai Mon Shan from telegram with kpay 4000 for 2 month",
          "date" : "28.10.2022"
       },
