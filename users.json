@@ -2208,10 +2208,10 @@
         "date" : "5.1.2023"
       },
  {
-        "deviceId": "xxx",
+        "deviceId": "c850cf3ed204b2ac",
         "vipMonth": "Jan",
-        "note" : "1:00 PM(48 hr)",
-        "date" : "5.1.2023"
+        "note" : "10:00 PM(24 hr)",
+        "date" : "8.1.2023"
       }
       ]
 }
