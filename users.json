@@ -2082,7 +2082,7 @@
       },
  {
         "deviceId": "f4a21c7aa97a85dd",
-        "vipMonth": "202",
+        "vipMonth": "Jan",
         "note" : "Aung min Tun from telegram with bill 3000",
         "date" : "9.1.2023"
       },
@@ -2208,10 +2208,10 @@
         "date" : "9.1.2023"
       },
  {
-        "deviceId": "c850cf3ed204b2ac",
+        "deviceId": "4aee9d11f65e8a7c",
         "vipMonth": "Jan",
         "note" : "10:00 PM(24 hr)",
-        "date" : "8.1.2023"
+        "date" : "9.1.2023"
       }
       ]
 }
