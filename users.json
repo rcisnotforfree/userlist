@@ -2189,13 +2189,13 @@
         "date" : "11.1.2023"
       },
  {
-        "deviceId": "4fde3b52249f1f79",
+        "deviceId": "xx",
         "vipMonth": "Jan",
         "note" : "9:00 PM",
         "date" : "11.1.2023"
       },
  {
-        "deviceId": "aa78eab10945c03a",
+        "deviceId": "xx",
         "vipMonth": "Jan",
         "note" : "9:00 PM",
         "date" : "11.1.2023"
@@ -2207,10 +2207,10 @@
         "date" : "11.1.2023"
       },
  {
-        "deviceId": "88e116b0ffc49992",
+        "deviceId": "1f9484373acae1c1",
         "vipMonth": "Jan",
-        "note" : "8:00 PM(24 hr)",
-        "date" : "11.1.2023"
+        "note" : "9:00 PM(24 hr)",
+        "date" : "12.1.2023"
       }
       ]
 }
