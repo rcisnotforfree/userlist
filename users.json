@@ -2430,16 +2430,16 @@
         "date" : "15.1.2023"
       },
  {
-        "deviceId": "71f3b0083dc447c9",
+        "deviceId": "xxx",
         "vipMonth": "Jan",
         "note" : "12:00 PM(24 hr same time with below)",
         "date" : "17.1.2023"
       },
  {
-        "deviceId": "44ca6eb6aed5a703",
+        "deviceId": "5978b6cdc2fb4fda",
         "vipMonth": "Jan",
-        "note" : "12:00 PM(နေ့လယ် 24 hr)",
-        "date" : "17.1.2023"
+        "note" : "12:00 AM(ည 24 hr)",
+        "date" : "18.1.2023"
       }
       ]
 }
