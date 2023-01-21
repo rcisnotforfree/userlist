@@ -2461,16 +2461,16 @@
         "date" : "21.1.2023"
       },
  {
-        "deviceId": "9ae352285f7d34c6",
+        "deviceId": "c1a8c8e0472521b8",
         "vipMonth": "Jan",
-        "note" : "11:00 PM(24 hr)",
-        "date" : "20.1.2023"
+        "note" : "10:00 PM(24 hr)",
+        "date" : "21.1.2023"
       },
  {
-        "deviceId": "60a4088d27372536",
+        "deviceId": "45b22f6fd1b642a0",
         "vipMonth": "Jan",
-        "note" : "11:00 PM(ည 24 hr)",
-        "date" : "20.1.2023"
+        "note" : "10:00 PM(ည 24 hr)",
+        "date" : "21.1.2023"
       }
       ]
 }
