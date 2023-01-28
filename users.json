@@ -952,12 +952,6 @@
         "date" : "21.11.2022"
       },
  {
-        "deviceId": "##635ce06d5a6e6f1c",
-        "vipMonth": "#Jan",
-        "note" : "emily xz from telegram with bill 2000",
-        "date" : "20.11.2022"
-      },
- {
         "deviceId": "e65dbdc0d80af67b",
         "vipMonth": "Jan",
         "note" : "Sai Thu from telegram with kpay 5000 for 3 month",
@@ -2683,10 +2677,10 @@
         "date" : "27.1.2023"
       },
  {
-        "deviceId": "929a554cf6483272",
+        "deviceId": "xx",
         "vipMonth": "Jan",
-        "note" : "9:30 PM(ည 24 hr)",
-        "date" : "28.1.2023"
+        "note" : "7:30 PM(ည 24 hr)",
+        "date" : "27.1.2023"
       }
       ]
 }
