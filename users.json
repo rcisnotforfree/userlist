@@ -1018,10 +1018,10 @@
         "date" : "25.11.2022"
       },
  {
-        "deviceId": "#79960af24580c4a0",
-        "vipMonth": "#Jan",
-        "note" : "min aru from telegram with kpay 2000",
-        "date" : "25.11.2022"
+        "deviceId": "79960af24580c4a0",
+        "vipMonth": "Jan",
+        "note" : "min aru from telegram with kpay 2000(+3000)",
+        "date" : "30.1.2023"
       },
  {
         "deviceId": "89d25a23ef74da7b",
@@ -2647,9 +2647,15 @@
         "date" : "30.1.2023"
       },
  {
-        "deviceId": "xxx",
+        "deviceId": "a0e67b8905f25f3a",
         "vipMonth": "Jan",
-        "note" : " from viber with wave 3000",
+        "note" : "Kaung Sitt Thant from telegram with wave 3000",
+        "date" : "30.1.2023"
+      },
+ {
+        "deviceId": "c1a8c8e0472521b8",
+        "vipMonth": "Jan",
+        "note" : "ko maung from telegram with kpay 3000",
         "date" : "30.1.2023"
       },
  {
@@ -2809,21 +2815,15 @@
         "date" : "30.1.2023"
       },
  {
-        "deviceId": "xxx",
+        "deviceId": "183c6a7823b69863",
         "vipMonth": "Jan",
-        "note" : " from viber with wave 3000",
+        "note" : "11:30 PM",
         "date" : "30.1.2023"
       },
  {
-        "deviceId": "xxx",
+        "deviceId": "4eda0cbdc4ce10a5",
         "vipMonth": "Jan",
-        "note" : " from viber with wave 3000",
-        "date" : "30.1.2023"
-      },
- {
-        "deviceId": "xxx",
-        "vipMonth": "Jan",
-        "note" : " from viber with wave 3000",
+        "note" : "11:30 PM",
         "date" : "30.1.2023"
       },
  {
@@ -2839,16 +2839,16 @@
         "date" : "30.1.2023"
       },
  {
-        "deviceId": "xx",
+        "deviceId": "3d1d8d8a1772c0f9",
         "vipMonth": "Jan",
-        "note" : "same as below",
-        "date" : "29.1.2023"
+        "note" : "11:30 PM",
+        "date" : "30.1.2023"
       },
  {
-        "deviceId": "xx",
+        "deviceId": "2216fb3a6926d0a9",
         "vipMonth": "Jan",
-        "note" : "ည 8 နာရျိခွဲ",
-        "date" : "29.1.2023"
+        "note" : "မနက် 8 နာရျိခွဲ",
+        "date" : "30.1.2023"
       },
  {
         "deviceId": "5691f4c11c97d6ec",
