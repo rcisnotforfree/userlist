@@ -1715,12 +1715,6 @@
         "date" : "30.12.2022"
       },
  {
-        "deviceId": "9c232fb0a35913e3",
-        "vipMonth": "Feb",
-        "note" : "Chit Min Thu from viber with wave 3000",
-        "date" : "30.12.2022"
-      },
- {
         "deviceId": "ebee1f4456c349f5",
         "vipMonth": "Feb",
         "note" : "Kaung Khant Thu from viber with wave 3000",
@@ -2981,6 +2975,12 @@
         "vipMonth": "Mar",
         "note" : "M L Win from viber with wave 3000",
         "date" : "25.3.2023"
+      },
+ {
+        "deviceId": "6e42ba2ec11f007f",
+        "vipMonth": "Mar",
+        "note" : "Chit Min Thu from viber with wave 3000",
+        "date" : "26.3.2023"
       }
       ]
 }
