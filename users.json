@@ -2266,12 +2266,7 @@
         "note" : "Aungminthu from viber with kpay 3000",
         "date" : "17.1.2023"
       },
- {
-        "deviceId": "2bfdb4694bd8a7ae",
-        "vipMonth": "Feb",
-        "note" : "Jonney from viber with kpay 3000",
-        "date" : "17.1.2023"
-      },
+
  {
         "deviceId": "5c0e0f853e93b9e1",
         "vipMonth": "Feb",
@@ -2981,6 +2976,12 @@
         "vipMonth": "Mar",
         "note" : "Chit Min Thu from viber with wave 3000",
         "date" : "26.3.2023"
+      },
+{
+        "deviceId": "428ea49a99f95121",
+        "vipMonth": "Mar",
+        "note" : "Jonney from viber with wave 3000",
+        "date" : "27.3.2023"
       }
       ]
 }
