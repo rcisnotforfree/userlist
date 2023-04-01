@@ -150,12 +150,6 @@
          "date" : "21.11.2022"
       },
 {
-        "deviceId": "##e2335ff131583cd9",
-        "vipMonth": "#Feb",
-         "note" : "yezarni maung from telegram with kpay 2000",
-         "date" : "14.10.2022"
-      },
-{
         "deviceId": "##498257dda39b2868",
         "vipMonth": "#Feb",
          "note" : "Paing Paing from telegram with bill 3000",
@@ -3014,6 +3008,34 @@
         "deviceId": "31d2b2a8b4893905",
         "vipMonth": "Apr",
         "note" : "Zwel Mann from viber with wave 3000",
+        "date" : "29.3.2023"
+      }
+,
+{
+        "deviceId": "d95471f1a2c9b813",
+        "vipMonth": "Apr",
+        "note" : "Nay Lin from telegram with wave 2000",
+        "date" : "1.4.2023"
+      }
+,
+{
+        "deviceId": "d2b1340a9c163a3a",
+        "vipMonth": "Apr",
+        "note" : "Min Khant from telegram with kpay 5000 for 3 month",
+        "date" : "1.4.2023"
+      }
+,
+{
+        "deviceId": "533aec9383f31502",
+        "vipMonth": "Apr",
+         "note" : "yezarni maung from telegram with kpay 5000 fro 2 month",
+         "date" : "1.4.2023"
+      }
+,
+{
+        "deviceId": "xx",
+        "vipMonth": "Apr",
+        "note" : "xxx from viber with wave 3000",
         "date" : "29.3.2023"
       }
       ]
