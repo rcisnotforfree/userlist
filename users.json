@@ -3163,10 +3163,22 @@
         "date" : "11.4.2023"
 },
 {
-        "deviceId": "xxxxxx",
+        "deviceId": "11548c9df554ccd1",
         "vipMonth": "Apr",
-        "note" : " from telegram with wave kpay ",
-        "date" : ".4.2023"
+        "note" : "Aung Chan(Old Version) from telegram with kpay 3000 ",
+        "date" : "13.4.2023"
+},
+{
+        "deviceId": "f2986cf80929bd1b",
+        "vipMonth": "Apr",
+        "note" : "Aax from telegram with wave 5000 for 3 month ",
+        "date" : "13.4.2023"
+},
+{
+        "deviceId": "4d863d64d9e0a4d2",
+        "vipMonth": "Apr",
+        "note" : "Myo Paing from viber with wave 2000 ",
+        "date" : "13.4.2023"
 },
 {
         "deviceId": "xxxxxx",
@@ -3229,21 +3241,9 @@
         "date" : ".4.2023"
 },
 {
-        "deviceId": "xxxxxx",
+        "deviceId": "xxx",
         "vipMonth": "Apr",
         "note" : " from telegram with wave kpay ",
-        "date" : ".4.2023"
-},
-{
-        "deviceId": "xxxxxx",
-        "vipMonth": "Apr",
-        "note" : " from telegram with wave kpay ",
-        "date" : ".4.2023"
-},
-{
-        "deviceId": "100573fc0084d07b",
-        "vipMonth": "Apr",
-        "note" : "11 ရက်နေ့ ည 12 နာရီ ခွဲမှစသည် from telegram with wave kpay ",
         "date" : ".4.2023"
 }
       ]
